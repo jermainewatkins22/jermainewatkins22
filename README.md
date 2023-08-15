@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jermaine, an <a href="https://linkedin.com/in/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jermaine, an <a href="https://linkedin.com/in/">IT Professional</a>☺<a/h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
